@@ -1,0 +1,21 @@
+
+
+
+
+
+.container{
+    border: 2px solid black;
+    display: flex;
+    padding: 35px;
+    justify-content: center;
+
+}
+
+.container h2{
+    margin: 21px;
+}
+
+
+
+
+
